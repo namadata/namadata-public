@@ -1,12 +1,12 @@
 # namadata-public
 This is the public repository for Namadata - it will initially be used for Github issues and later extended for a registry
 
-##Introduction 
+## Introduction 
 Namadata is a suite of tools developed by Stake-Hub.xyz for the Namada Blockchain and community. 
 
 The primary purpose of Namadata is to improve the data around the performance of validators, services and the Namada blockchain. 
 
-##Namadata Services 
+## Namadata Services 
 
 Namadata's current services are as follows 
 - Namadata Daemon - Sophisticated daemon crawling the Namada chain and services to log performance data
